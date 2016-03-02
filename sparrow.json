@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name": "outth-test2-tools-compare",
+    "engine": "generic", 
+    "description" : "Outthentic tests for Test2::Tools::Compare",
+    "url": "https://github.com/melezhik/outth-test2-tools-compare.git"
+}
