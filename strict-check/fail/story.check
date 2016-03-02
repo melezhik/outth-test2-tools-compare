@@ -1,0 +1,16 @@
+within: not ok 1
+The hash we got matches our expectations
+
+begin:
+ +------+-----+----+-------+
+ | PATH | GOT | OP | CHECK |
+ +------+-----+----+-------+
+ | {a}  | 1   | eq | 2     |
+ | {b}  | 2   | eq | 1     |
+ +------+-----+----+-------+
+end:
+
+
+
+
+

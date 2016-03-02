@@ -1,2 +1,2 @@
-requires 'DateTime', '>= 1.24';
+requires 'Test2::Suite';
 requires 'Outthentic';
